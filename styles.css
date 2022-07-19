@@ -72,8 +72,73 @@ button.first {
     font-weight: bolder;
 }
 
-img.main-image{
-    
+img.main-image {
     width: 450px;
     height: 230px;
+}
+
+.secondary {
+    padding-bottom: 100px;
+}
+
+ h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    font-family: "Open Sans",sans-serif;
+ }
+
+ .secondary-heading {
+    display: flex;
+    justify-content: center;
+ }
+
+ img.mountain,img.winter,img.desert,img.jungle {
+    width: 150px;
+    height: 150px;
+ }
+
+ div.images {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+ }
+
+ .mountain,.winter,.desert,.jungle {
+    width: 150px;
+    height: auto;
+ }
+
+
+ .img-subtext{
+    text-align: center;
+    font-size: 16px;
+    font-family: "Raleway",sans-serif;
+ }
+
+.tertiary {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding-top: 100px;
+    padding-bottom: 90px;
+    align-items: center;
+}
+
+.quote {
+    width: 700px;
+}
+
+.person {
+    text-align: right;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: "Dosis",sans-serif;
+}
+
+.words {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    font-family: "Titillium Web",sans-serif;
 }
