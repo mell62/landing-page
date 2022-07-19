@@ -172,3 +172,13 @@ h4 {
 .fourth-subtext {
     font-family: "Raleway",sans-serif;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    font-family: "Raleway",sans-serif;
+    font-size: 14px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
