@@ -142,3 +142,33 @@ img.main-image {
     font-weight: 100;
     font-family: "Titillium Web",sans-serif;
 }
+
+.fourth {
+    background-color: #3882F6;
+    color: white;
+    margin: 80px 400px;
+    padding: 40px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button.second {
+    background-color: #3882F6;
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 18px;
+    margin: 0;
+    font-family: "Open Sans",sans-serif;
+}
+
+.fourth-subtext {
+    font-family: "Raleway",sans-serif;
+}
