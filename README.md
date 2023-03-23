@@ -1,4 +1,5 @@
-# landing-page
+# Landing-Page
 
-In this project, I shall be creating a landing page with some commonly seen designs. I shall be demonstrating basic skills I have in developing a HTML page using CSS.
-Link: https://mell62.github.io/landing-page/
+Welcome to my first landing page! This is a simple webpage designed using only basic HTML and CSS containing random images and text within a neat design.
+
+Click [here](https://mell62.github.io/landing-page/) for the live preview!
